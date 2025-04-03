@@ -1,3 +1,1 @@
-api_id = 28919174
-api_hash = 5506bbd95154275f2e6b9ca381eeb618
-engine = 1
+
